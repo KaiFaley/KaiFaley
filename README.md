@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Analyst Projects:</h2>
 
 - <b>🔐 Apply Filters to SQL Queries</b>
-  - [SQL Project:](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [SQL Project:](https://github.com/KaiFaley/-Apply-Filters-to-SQL-Queries)
   
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
