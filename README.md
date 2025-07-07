@@ -10,7 +10,7 @@
 
 <h2>📘 Certification</h2>
 
-- [Google IT Support Professional](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google IT Support Professional](https://www.coursera.org/account/accomplishments/professional-cert/K6FTV5PUJGC6)
 
 <h2> 🤳 Connect with me:</h2>
 
